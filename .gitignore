@@ -20,7 +20,3 @@
 # Keystores or secrets
 *.p12
 .env
-
-# Sensitive files
-src/main/resources/application.properties
-src/main/resources/application.properties
