@@ -20,3 +20,4 @@
 # Keystores or secrets
 *.p12
 .env
+"src/main/resources/application.properties" 
